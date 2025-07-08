@@ -9,6 +9,6 @@ def clean_text(text):
     text = text.replace('\u2013', ' ')  # Replace en-dash
     text = text.replace('\u2014', ' ')  # Replace em-dash
     text = re.sub(r'\s+', ' ', text)    # Replace multiple spaces with single space
-    text = re.sub(r'[a-zA-Z0-9/.-]', '', text)
+    text = re.sub(r'[a-zA-Z0-9/.-'']', '', text)
     
     return text.strip()
