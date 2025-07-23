@@ -1,0 +1,26 @@
+1.Office of the Prime Minister and Council of Ministers
+2.Ministry of Defence
+3.Ministry of Home Affairs (Nepal)
+4.Ministry of Agriculture and Livestock Development (Nepal)
+5.Ministry of Law, Justice and Parliamentary Affairs (Nepal)
+6.Ministry of Education, Science and Technology (Nepal)
+7.Ministry of Labor, Employment and Social Security
+8.Ministry of Finance (Nepal)
+9.Ministry of Water Supply
+10.Ministry of Energy, Water Resources and Irrigation
+11.Ministry of Foreign Affairs (Nepal)
+12.Ministry of Communication and Information Technology
+13.Ministry of Health and Population
+14.Ministry of Culture, Tourism and Civil Aviation
+15.Ministry of Physical Infrastructure and Transport
+16.Ministry of Land Management, Cooperatives and Poverty Alleviation
+17.Ministry of Industry, Commerce and Supplies (Nepal)
+18.Ministry of Urban Development (Nepal)
+19.Ministry of Youth and Sports (Nepal)
+20.Ministry of Women, Children and Senior Citizens
+21.Ministry of Forests and Environment
+22.Ministry of Federal Affairs and General Administration (Nepal)
+
+
+
+
